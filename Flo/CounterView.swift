@@ -86,6 +86,7 @@ import UIKit
         outlinePath.lineWidth = Constants.lineWidth
         outlinePath.stroke()
         
-        //
+        // este es el codigo de la primera parte de la aplicación
+        
     }
 }
